@@ -1,0 +1,2 @@
+# Image_Detection_CNN
+Problem statement is to identify that the image is of CAT or DOG it is simply a Image recognition problem. CNN can also be used for video recognition purpose but mainly it is used for image recognition, object detection and segmentation purpose.  So, by using Convolutional neural network we can easily build our model and correctly evaluate our model by using training and testing dataset provided.  
